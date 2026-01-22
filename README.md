@@ -1,5 +1,8 @@
 # Miniguia de Psicologia Financeira com NotebookLM
 
+**Acesse o Notebook completo aqui:**
+https://notebooklm.google.com/notebook/7a454d1b-43b0-4a37-9300-75193863ef9b
+
 Este repositório documenta o processo e o resultado da construção de um **caderno temático no NotebookLM** voltado ao estudo de **psicologia financeira**.
 
 O Notebook foi utilizado como ferramenta de aprendizagem ativa, a partir da curadoria de fontes abertas, definição de objetivos de estudo, elaboração de perguntas estratégicas e testes de prompts para geração de resumos e reflexões práticas.
@@ -44,5 +47,6 @@ Organizar, de forma prática e clara, os principais conceitos de psicologia fina
 3. Definição de objetivos de estudo
 4. Teste de variações de prompts
 5. Organização dos resultados neste repositório
+
 
 
